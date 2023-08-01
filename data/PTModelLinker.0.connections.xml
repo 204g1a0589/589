@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>2131</string>
+                <key>objectA</key>
+                <string>2050</string>
+                <key>objectB</key>
+                <string>2122</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2327</string>
+                <key>objectA</key>
+                <string>2315</string>
+                <key>objectB</key>
+                <string>2317</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2328</string>
+                <key>objectA</key>
+                <string>2317</string>
+                <key>objectB</key>
+                <string>2319</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2329</string>
+                <key>objectA</key>
+                <string>2319</string>
+                <key>objectB</key>
+                <string>2321</string>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2330</string>
+                <key>objectA</key>
+                <string>2325</string>
+                <key>objectB</key>
+                <string>2321</string>
+            </dict>
+        </array>
+    </dict>
+</plist>
